@@ -1,5 +1,6 @@
 # Game20
 It is a simple game in which you play with the program and whoever says 20, wins.
+(Execute it in the terminal)
 
 Rules:
 1. The game always starts with 1.
